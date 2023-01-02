@@ -7,13 +7,10 @@ Make sure you have the latest version of Python installed.
 ```bash
 git clone <repo-url>
 ```
-
-## Running The App
-
 ```bash
-python main.py
+cd Flask-web-app-test
+. venv/bin/activate
 ```
-
-## Viewing The App
-
-Go to `http://127.0.0.1:5000`
+```bash
+https://127.0.0.1:5000
+```
